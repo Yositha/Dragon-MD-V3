@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Your Name."
+      "value": "Yositha Yapa"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -52,14 +52,14 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94767553646"
+       "value": "94759677097"
   },
    "SESSION_ID": {
-    "description": "Please put your SESSION_ID here,if you don't have visit https://secktorbot.herokuapp.com/session "
+    "description": "MWtYYnQyZVA="
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
-       "value": "Replace Me(optional)",
+       "value": "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",
        "required" :false
   },
   "WELCOME_MESSAGE": {
